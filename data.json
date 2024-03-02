@@ -1,5 +1,12 @@
 {
-    "posts_names": ["Bedrock ChatGPT", "Kill2Live / Hunt2Live", "Outhome", "Bad Function", "Secrets are Hidden"],
-    "projects_names": [],
-    "games_names": []
+  "posts_names": [
+    "Bedrock ChatGPT",
+    "Kill2Live / Hunt2Live",
+    "Outhome",
+    "Bad Function",
+    "Secrets are Hidden",
+    ""
+  ],
+  "projects_names": [],
+  "games_names": []
 }
