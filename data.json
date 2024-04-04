@@ -2,6 +2,8 @@
   "posts_names": [
     "Bedrock ChatGPT"
   ],
-  "projects_names": [],
+  "projects_names": [
+    "BedrockCore"
+  ],
   "games_names": []
 }
